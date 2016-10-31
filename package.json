@@ -1,0 +1,16 @@
+{
+  "name": "quick-sort",
+  "version": "1.0.0",
+  "description": "quick sort with set-up pivots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariia Paniutina",
+  "license": "ISC",
+  "devDependencies": {
+    "connect": "^3.5.0",
+    "jquery": "^3.1.1",
+    "serve-static": "^1.11.1"
+  }
+}
